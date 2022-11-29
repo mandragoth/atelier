@@ -1,0 +1,3 @@
+[submodule "magia"]
+	path = magia
+	url = git@github.com:mandragoth/magia.git

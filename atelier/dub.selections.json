@@ -1,0 +1,10 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"magia": {"path":"../magia"},
+		"bindbc-loader": "0.3.2",
+		"bindbc-sdl": "0.21.2",
+		"derelict-sdl2": "2.1.4",
+		"derelict-util": "2.0.6"
+	}
+}

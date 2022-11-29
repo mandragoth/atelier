@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+atelier.so
+atelier.dylib
+atelier.dll
+atelier.a
+atelier.lib
+atelier-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,30 @@
+{
+	"name": "map-editor",
+	"authors": [
+		"Enalye",
+		"Jonath"
+	],
+	"description": "Map Editor",
+	"copyright": "Mandragoth",
+	"dependencies": {
+		"magia": {
+			"version": "~master",
+			"path": "../magia"
+        }
+	},
+	"targetName": "map-editor",
+	"targetType": "executable",
+	"workingDirectory": "..",
+	"configurations": [
+		{
+			"name": "linux-build",
+			"platforms": ["linux"],
+			"targetPath": "../bin"
+		},
+		{
+			"name": "windows-build",
+			"platforms": ["windows"],
+			"targetPath": "../bin$ARCH"
+		}
+	]
+}
