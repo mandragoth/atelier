@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Enalye",
+		"Jonath"
+	],
+	"copyright": "Copyright © 2022, Enalye, Jonath",
+	"description": "Éditeur de Magia",
+	"license": "Zlib",
+	"name": "atelier",
+    "dependencies": {
+        "magia": {
+            "path": "magia"
+        }
+    }
+}
